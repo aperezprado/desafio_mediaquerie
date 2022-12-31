@@ -211,4 +211,7 @@ input.btn-comprar:hover{
     .card{
         display: none;
     }
+    .footer p{
+        text-align: center;
+    }
 }
